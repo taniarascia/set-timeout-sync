@@ -1,0 +1,22 @@
+{
+  "name": "set-timeout-sync",
+  "version": "1.0.1",
+  "description": "A blocking, synchronous imitation of setTimeout",
+  "author": {
+    "name": "Tania Rascia",
+    "email": "me@taniarascia.com",
+    "url": "https://www.taniarascia.com"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "synchronous",
+    "blocking",
+    "scheduling",
+    "timeout"
+  ],
+  "license": "MIT",
+  "private": false
+}
