@@ -1,6 +1,6 @@
 # set-timeout-sync 
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT) [![snekjs on NPM](https://img.shields.io/npm/v/set-timeout-sync.svg?color=red&label=set-timeout-sync)](https://www.npmjs.com/package/set-timeout-sync)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT) [![snekjs on NPM](https://img.shields.io/npm/v/set-timeout-sync.svg?color=green&label=set-timeout-sync)](https://www.npmjs.com/package/set-timeout-sync)
 
 A blocking, synchronous imitation of `setTimeout`.
 
